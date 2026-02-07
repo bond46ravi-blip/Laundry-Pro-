@@ -1,0 +1,8 @@
+{
+  "name": "LaundroPro - Premium Online Laundry Ecosystem",
+  "description": "A comprehensive production-ready laundry service platform featuring an Admin Dashboard, and simulated Customer/Partner interfaces for end-to-end testing of real-time sync, multi-role access, and order life-cycle management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
